@@ -1,7 +1,7 @@
 <h1>Bruteforce Attack Project (!!IN PROCESS!!)</h1>
 
 <h2>Lab Objective</h2>
-Build<br />
+Build a network enviorment to produce a brutefrce attack on a victum machine. Will be using Active Directory enviroment to create user accounts that will be used a victum machine. While also using SPLUNK intance that will ne inhesting events from Windows server that has Active Dierctiry and traget windows machine. Will use Kali Linux as the attacking machine to perform bruteforce attack to see what kind of telemetery it will produce, along with using Atomic Red Team.<br />
 
 <h2>Environments Used </h2>
 
