@@ -1,8 +1,4 @@
-# BruteForceAttackProject (!!IN PROCESS!!)
-
-
-
-<h1>Bruteforce Attack Project</h1>
+<h1>Bruteforce Attack Project (!!IN PROCESS!!)</h1>
 
 <h2>Lab Objective</h2>
 Build<br />
