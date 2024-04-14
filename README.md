@@ -5,8 +5,15 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 <h2>Environments Used </h2>
 
-- <b>VMWare Workstation</b>
-- <b>Windows VM</b>
+- <b>VirtialBox</b>
+- <b>Windows Server 2022</b>
+- <b>Windows 11/b>
+- <b>Kali Linux</b>
+- <b>Active Directory</b>
+- <b>SPLUNK</b>
+- <b>BruteForceAttack</b>
+- <b>AtomicRedTeam </b>
+
 
 <h2>Project Overview </h2>
 
