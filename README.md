@@ -15,39 +15,28 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 - <b>AtomicRedTeam </b>
 
 
-<h2>Project Overview </h2>
+<h2>Project Walk-Through Overview </h2>
 
-- <b></b>
-
-1. <br/>
-2. <br/>
+- <b>Build out a Diagram</b>
 
 
-<img src=""/>
+<img src="https://i.imgur.com/wW6qKId.png"/>
 
 -----------------------------------------------
 
-<img src=""/>
+- <b>Install VirtualBox and build Virtual Machines</b>
+
+1. Download iso's and build the following VM machines:<br/>
+   a. Windows 10 VM<br/>
+   b. Windows Server 2022 VM<br>
+   c. Kali Linux VM<br/>
+   d. Ubuntu Server VM</b>
+
+<img src="https://i.imgur.com/EprVhQU.png"/>
 
 -----------------------------------------------
 
-<img src=""/>
-
------------------------------------------------
-
-A. Set up static IP for VM Workstation so that it doesn’t change throughout the lab or beyond it by copying down Subnet IP and Gateway IP.<br/>
- 
-<img src=""/>
-
------------------------------------------------
-
-4. In the Ubuntu installer change the interface from DHCPv4 to Manual and paste subnet IP and Gateway IP.<br/>
-
-<img src=""/>
-
------------------------------------------------
-
-<img src=""/>
+<img src="https://i.imgur.com/FLl0sok.png"/>
 
 -----------------------------------------------
 
