@@ -7,7 +7,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 - <b>VirtialBox</b>
 - <b>Windows Server 2022</b>
-- <b>Windows 11/b>
+- <b>Windows 11</b>
 - <b>Kali Linux</b>
 - <b>Active Directory</b>
 - <b>SPLUNK</b>
