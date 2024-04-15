@@ -17,7 +17,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 <h2>Project Walk-Through Overview </h2>
 
-- <b>Part 1: Build out a Diagram</b>
+- <h1>Part 1: Build out a Diagram</h1>
 
 
 <img src="https://i.imgur.com/wW6qKId.png"/>
@@ -201,82 +201,128 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 <img src="https://i.imgur.com/BAPXCR5.png"/>
 
 -----------------------------------------------
-2. <br>
-3. .<br/>
 
-<img src=""/>
+4. Mount share folder create "AD Project" to the "SHARE" directory created. </br>
+
+<img src="https://i.imgur.com/YbvrCcS.png"/>
 
 -----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/pCBrnok.png"/>
 
 ----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/2mNrkZr.png"/>
 
 ----------------------------------------------
 
-<img src=""/>
+5. Install Splunk Fowarder on both target machine (Winodows 10) and server (Windows Server 2022)</br>
+
+<img src="https://i.imgur.com/zscvWhn.png"/>
 
 -----------------------------------------------
 
-<img src=""/>
-
------------------------------------------------
-
-<img src=""/>
-
------------------------------------------------
-
-<img src=""/>
+<img src="https://i.imgur.com/T8mYC5G.png"/>
 
 ----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/YSlAqc6.png"/>
 
 ----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/2muivnc.png"/>
 
 -----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/NIpLeD4.png"/>
 
 -----------------------------------------------
 
-
-<img src=""/>
+<img src="https://i.imgur.com/9bQkQ9K.png"/>
 
 -----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/XZaTqrG.png"/>
 
 ----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/F0vy7bX.png"/>
 
 ----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/zp1Yew5.png"/>
 
 -----------------------------------------------
 
-<img src=""/>
+Install Sysmon and sysmon olaf config.
+
+<img src="https://i.imgur.com/6PiYbW7.png"/>
 
 -----------------------------------------------
 
-
-<img src=""/>
+<img src="https://i.imgur.com/QWqVC0E.png"/>
 
 -----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/gSoCoAX.png"/>
 
 ----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/oFd0zXw.png"/>
 
 ----------------------------------------------
+
+<img src="https://i.imgur.com/tEdGzQE.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/hP2XCee.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/H0JCEVe.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/rrLAMKg.png"/>
+
+----------------------------------------------
+
+<img src="https://i.imgur.com/9aH1t8P.png"/>
+
+----------------------------------------------
+Configgure file "inputs" under local file in Splunk Forwarder file. 
+
+
+<img src="https://i.imgur.com/GdcKCCb.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/g90eO30.png"/>
+
+-----------------------------------------------
+
+restart Splunk universal Fowarder.
+
+<img src="https://i.imgur.com/L7CYdZo.png"/>
+
+----------------------------------------------
+
+<img src="https://i.imgur.com/0epU8hA.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/NSDRtjC.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/IMqJY6p.png"/>
+
+----------------------------------------------
+
+create an index in Splunk Enterprise.
+
+
 
 <img src=""/>
 
