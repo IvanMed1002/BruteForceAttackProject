@@ -17,14 +17,14 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 <h2>Project Walk-Through Overview </h2>
 
-- <b>Build out a Diagram</b>
+- <b>Part 1: Build out a Diagram</b>
 
 
 <img src="https://i.imgur.com/wW6qKId.png"/>
 
 -----------------------------------------------
 
-- <b>Install VirtualBox and build Virtual Machines</b>
+- <b>Part 2:Install VirtualBox and build Virtual Machines</b>
 
 1. Download iso's and build the following VM machines:<br/>
    a. VirtualBox</br>
@@ -137,20 +137,134 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 -----------------------------------------------
 
-<img src=""/>
+- <b>Part 3: Install and configure Sysmon & Splunk on Windows target machine and Windows Server. Both Windows machine will collect telemetry and send logs over to Splunk server.</b>
+
+1. Set networking setting to NAT to have all VMs on the same network for internet access and communciation between VMs. <br/>
+
+<img src="https://i.imgur.com/5ib2M63.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/JjJPDgK.png"/>
+
+-----------------------------------------------
+
+!!!!--- SAME STEP FOR VMs ---!!!! <br/>
+
+<img src="https://i.imgur.com/6IyArOs.png"/>
+
+----------------------------------------------
+2. Set up static IP on Splunk Server. <br/>
+
+<img src="https://i.imgur.com/OtDuWRZ.png"/>
 
 ----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/edFU7Kz.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/1Ub6zYJ.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/GjnIJki.png"/>
+
+-----------------------------------------------
+3. Install Splunk by creating an acoount first and than download Splunk Enterprise on host computer. <br/>
+
+<img src="https://i.imgur.com/HmnKQ4L.png"/>
 
 ----------------------------------------------
 
+<img src="https://i.imgur.com/Zb9Z30b.png"/>
 
-- <b></b>
+----------------------------------------------
+4. Install "VurtialBox GUEST-ADD-ON" on Splunk VM. <br/>
 
-1. <br/>
+<img src="https://i.imgur.com/DYPtVHB.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/MN6a2yN.png"/>
+
+----------------------------------------------
+
+<img src="https://i.imgur.com/ZoUKJuC.png"/>
+
+----------------------------------------------
+
+<img src="https://i.imgur.com/nnJH63L.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/BAPXCR5.png"/>
+
+-----------------------------------------------
 2. <br>
 3. .<br/>
+
+<img src=""/>
+
+-----------------------------------------------
+
+<img src=""/>
+
+----------------------------------------------
+
+<img src=""/>
+
+----------------------------------------------
+
+<img src=""/>
+
+-----------------------------------------------
+
+<img src=""/>
+
+-----------------------------------------------
+
+<img src=""/>
+
+-----------------------------------------------
+
+<img src=""/>
+
+----------------------------------------------
+
+<img src=""/>
+
+----------------------------------------------
+
+<img src=""/>
+
+-----------------------------------------------
+
+<img src=""/>
+
+-----------------------------------------------
+
+
+<img src=""/>
+
+-----------------------------------------------
+
+<img src=""/>
+
+----------------------------------------------
+
+<img src=""/>
+
+----------------------------------------------
+
+<img src=""/>
+
+-----------------------------------------------
+
+<img src=""/>
+
+-----------------------------------------------
+
 
 <img src=""/>
 
