@@ -324,6 +324,44 @@ create an index in Splunk Enterprise.
 
 
 
+<img src="https://i.imgur.com/Dt8wuHj.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/GvdTc6l.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/J9v7syO.png"/>
+
+----------------------------------------------
+
+<img src="https://i.imgur.com/rVkiuHO.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/aytD6rz.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/pzrETt2.png"/>
+
+----------------------------------------------
+
+<img src="https://i.imgur.com/GzNJaoI.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/1wfrMGq.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/r6wwtxP.png"/>
+
+----------------------------------------------
+
+Part 4: Insatll & Configure Active Directory on Windows Server by promoting domain controller. Add Windows PC VM to join created domain. 
+
 <img src=""/>
 
 -----------------------------------------------
@@ -331,3 +369,7 @@ create an index in Splunk Enterprise.
 <img src=""/>
 
 -----------------------------------------------
+
+<img src=""/>
+
+----------------------------------------------
