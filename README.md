@@ -360,12 +360,56 @@ create an index in Splunk Enterprise.
 
 ----------------------------------------------
 
-Part 4: Insatll & Configure Active Directory on Windows Server by promoting domain controller. Add Windows PC VM to join created domain. 
+Part 4: Insatll & Configure Active Directory on Windows Server by promoting to a domain controller. Add Windows PC VM to join created domain. 
 
-<img src=""/>
+Set up static IP on Windows server
+
+<img src="https://i.imgur.com/wtXTsbE.png"/>
 
 -----------------------------------------------
 
+<img src="https://i.imgur.com/sz5Ts5U.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/farHZw7.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/rYVSBrw.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/sEBdGlC.png"/>
+
+----------------------------------------------
+
+<img src="https://i.imgur.com/iTvXXbR.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/wZfiFRZ.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/RftG6zN.png"/>
+
+----------------------------------------------
+
+<img src="https://i.imgur.com/EAtn5zQ.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/9L0Ggcj.png"/>
+
+----------------------------------------------
+<img src="https://i.imgur.com/SVf46YH.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/VDYgTNt.png"/>
+
+----------------------------------------------
 <img src=""/>
 
 -----------------------------------------------
