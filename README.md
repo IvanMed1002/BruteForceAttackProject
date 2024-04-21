@@ -428,93 +428,173 @@ create organizational unit and than user under organization.
 <img src="https://i.imgur.com/jumfypP.png"/>
 
 ----------------------------------------------
+Join Windows 10 pc to crated DOMAIN.
+
+<img src="https://i.imgur.com/Hh68Pup.png"/>
+
+----------------------------------------------
+<img src="https://i.imgur.com/HUm4rZV.png"/>
+
+-----------------------------------------------
+
 <img src="https://i.imgur.com/ezqsp2W.png"/>
 
 -----------------------------------------------
 
-Join Windows 10 pc to crated DOMAIN.
-
-<img src=""/>
+<img src="https://i.imgur.com/jQz3h9G.png"/>
 
 ----------------------------------------------
-<img src=""/>
+<img src="https://i.imgur.com/57p0fEd.png"/>
 
 -----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/Hb7nWIv.png"/>
 
 ----------------------------------------------
-<img src=""/>
+
+- <b>Part 5:Use Kali Linux to perform brute force attack on traget machine and use Atomic Red Team on target machine while also viewing all telemeetry via SPLUNK.</b>
+
+<img src="https://i.imgur.com/FtHljLk.png"/>
 
 -----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/tygjst8.png"/>
 
 ----------------------------------------------
-<img src=""/>
+<img src="https://i.imgur.com/A5icd29.png"/>
 
 -----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/L8IYXqC.png"/>
 
 ----------------------------------------------
-<img src=""/>
+<img src="https://i.imgur.com/EXlEJLw.png"/>
 
 -----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/JQz3fMj.png"/>
 
 ----------------------------------------------
-<img src=""/>
+<img src="https://i.imgur.com/ZZ0Cnh9.png"/>
 
 -----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/uKjtv8X.png"/>
 
 ----------------------------------------------
-<img src=""/>
+
+enable remoete desktop
+
+<img src="https://i.imgur.com/oTAJkxU.png"/>
 
 -----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/kbbxGPt.png"/>
 
 ----------------------------------------------
-<img src=""/>
+<img src="https://i.imgur.com/jeLU3tQ.png"/>
 
 -----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/eN7qIfB.png"/>
 
 ----------------------------------------------
-<img src=""/>
+SPLUNK to see what telemetry it created.
+
+<img src="https://i.imgur.com/dZQ2bBY.png"/>
 
 ----------------------------------------------
-<img src=""/>
+<img src="https://i.imgur.com/54QF2ZY.png"/>
 
 -----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/93QkvfC.png"/>
 
 ----------------------------------------------
-<img src=""/>
+<img src="https://i.imgur.com/sskteJF.png"/>
 
 -----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/2aOArBL.png"/>
 
 ----------------------------------------------
-<img src=""/>
+<img src="https://i.imgur.com/JCImsNJ.png"/>
 
 -----------------------------------------------
 
-<img src=""/>
+<img src="https://i.imgur.com/cpqkNkL.png"/>
 
 ----------------------------------------------
-<img src=""/>
+
+Install atomic Red Team on target machine
+
+<img src="https://i.imgur.com/0Xl0wL3.png"/>
 
 -----------------------------------------------
 
-<img src=""/>
+disable Micrposft defender to avoid MD from blocking attack from Atomic Red Team.
+
+<img src="https://i.imgur.com/1vXLwLI.png"/>
 
 ----------------------------------------------
 
+<img src="https://i.imgur.com/WaO28Gt.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/1VW2wTE.png"/>
+
+----------------------------------------------
+<img src="https://i.imgur.com/MJKop5F.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/DyuaWbX.png"/>
+
+----------------------------------------------
+
+Install atomic red team
+
+<img src="https://i.imgur.com/xKcaLNw.png"/>
+
+-----------------------------------------------
+
+<img src="https://i.imgur.com/4h3uHFg.png"/>
+
+----------------------------------------------
+
+<img src="https://imgur.com/undefined"/>
+
+----------------------------------------------
+
+<img src="https://i.imgur.com/IXiGkiD.png"/>
+
+----------------------------------------------
+
+<img src="https://i.imgur.com/cO7NLqv.png"/>
+
+----------------------------------------------
+
+<img src="https://i.imgur.com/uodFXtz.png"/>
+
+----------------------------------------------
+
+<img src="https://i.imgur.com/bHJAerF.png"/>
+
+----------------------------------------------
+
+<img src="https://i.imgur.com/9DGDRxd.png"/>
+
+----------------------------------------------
+
+<img src="https://i.imgur.com/Bn7MwcO.png"/>
+
+----------------------------------------------
+
+<img src="https://i.imgur.com/NeJ77fr.png"/>
+
+----------------------------------------------
+
+<img src="https://i.imgur.com/TkvQLIj.png"/>
+
+----------------------------------------------
