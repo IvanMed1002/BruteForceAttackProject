@@ -24,14 +24,9 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 -----------------------------------------------
 
-<h1>Part 2:Install VirtualBox and build Virtual Machines</h1>
+<h1>Part 2:Install VirtualBox and build Virtual Machines inside VirtualBox.</h1>
 
-<br>1. Download iso's and install VirtualBox. Build VMs in VirtualBox.</br>
-   a. VirtualBox</br>
-   b. Windows Server 2022 VM</br>
-   c. Windows 10 VM</br>
-   d. Ubuntu Server VM</br>
-   e. Kali Linux VM</br>
+<b> A. Download and install VirtualBox.</b>
 
 <img src="https://i.imgur.com/X81fGF7.png"/>
 
@@ -40,6 +35,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 <img src="https://i.imgur.com/cdWK6iO.png"/>
 
 ----------------------------------------------
+<b> B. Download Windows Server 2022 ISO and build VM in VirtualBox.</b>
 
 <img src="https://i.imgur.com/EprVhQU.png"/>
 
@@ -68,6 +64,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 <img src="https://i.imgur.com/nkc2PuF.png"/>
 
 -----------------------------------------------
+<b> C. Download Windows 10 ISO and create VM in VirtualBox.</b>
 
 <img src="https://i.imgur.com/FLl0sok.png"/>
 
@@ -84,6 +81,9 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 <img src="https://i.imgur.com/3ArJJZn.png"/>
 
 -----------------------------------------------
+
+<b> D. Download Ubuntu Server ISO and create VM in VirtualBox.</b>
+
 
 <img src="https://i.imgur.com/7Uk3Kay.png"/>
 
@@ -104,6 +104,8 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 <img src="https://i.imgur.com/GNTFyB4.png"/>
 
 -----------------------------------------------
+
+<b> E. Download Pre-built VM for Kali Linux and install in VirtualBox.</b>
 
 <img src="https://i.imgur.com/elS6J6x.png"/>
 
@@ -216,8 +218,9 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 ----------------------------------------------
 
-5. Install Splunk Fowarder on both target machine (Winodows 10) and server (Windows Server 2022)</br>
-
+<br>5. Install Splunk Fowarder on both (Winodows 10) (Windows Server 2022).</br>
+ <br>  a. Change PC name and IP address to have Win 10 access the internet.</br>
+ 
 <img src="https://i.imgur.com/zscvWhn.png"/>
 
 -----------------------------------------------
@@ -238,9 +241,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 -----------------------------------------------
 
-<img src="https://i.imgur.com/9bQkQ9K.png"/>
-
------------------------------------------------
+ <br>  b. Download Universal Forwarder, Sysmon and, Sysmon olaf config from inside Windows 10 VM.</br>
 
 <img src="https://i.imgur.com/XZaTqrG.png"/>
 
