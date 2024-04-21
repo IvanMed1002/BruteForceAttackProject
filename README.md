@@ -17,7 +17,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 <h2>Project Walk-Through Overview </h2>
 
-- <h1>Part 1: Build out a Diagram</h1>
+<h1>Part 1: Build out a Diagram</h1>
 
 
 <img src="https://i.imgur.com/wW6qKId.png"/>
