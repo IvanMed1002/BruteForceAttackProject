@@ -24,14 +24,14 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 -----------------------------------------------
 
-- <b>Part 2:Install VirtualBox and build Virtual Machines</b>
+<h1>Part 2:Install VirtualBox and build Virtual Machines</h1>
 
-1. Download iso's and build the following VM machines:<br/>
+<br>1. Download iso's and install VirtualBox. Build VMs in VirtualBox.</br>
    a. VirtualBox</br>
    b. Windows Server 2022 VM</br>
    c. Windows 10 VM</br>
    d. Ubuntu Server VM</br>
-   e. Kali Linux VM </br>
+   e. Kali Linux VM</br>
 
 <img src="https://i.imgur.com/X81fGF7.png"/>
 
@@ -137,7 +137,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 -----------------------------------------------
 
-- <b>Part 3: Install and configure Sysmon & Splunk on Windows target machine and Windows Server. Both Windows machine will collect telemetry and send logs over to Splunk server.</b>
+<h1>Part 3: Install and configure Sysmon & Splunk on Windows target machine and Windows Server. Both Windows machine will collect telemetry and send logs over to Splunk server.</h1>
 
 1. Set networking setting to NAT to have all VMs on the same network for internet access and communciation between VMs. <br/>
 
