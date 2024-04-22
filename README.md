@@ -10,9 +10,10 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 - <b>Windows 11</b>
 - <b>Kali Linux</b>
 - <b>Active Directory</b>
-- <b>SPLUNK</b>
-- <b>BruteForceAttack</b>
-- <b>AtomicRedTeam </b>
+- <b>SPLUNK, SPLUNK Universal Forward</b>
+- <b>Sysmon</b>
+- <b>BruteForceAttack Script</b>
+- <b>AtomicRedTeam</b>
 
 
 <h2>Project Walk-Through Overview </h2>
