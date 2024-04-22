@@ -363,13 +363,15 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 ----------------------------------------------
 
-Part 4: Insatll & Configure Active Directory on Windows Server by promoting to a domain controller. Add Windows PC VM to join created domain. 
+<h1>Part 4: Insatll & Configure Active Directory on Windows Server by promoting to a domain controller. Add Windows PC VM to join created domain.</h1> 
 
-Set up static IP on Windows server
+A. Set up static IP on Windows server.
 
 <img src="https://i.imgur.com/wtXTsbE.png"/>
 
 -----------------------------------------------
+
+B. Create Active Directory Domain Services.
 
 <img src="https://i.imgur.com/sz5Ts5U.png"/>
 
@@ -391,6 +393,8 @@ Set up static IP on Windows server
 
 -----------------------------------------------
 
+C. Promote Domain Controlle.
+
 <img src="https://i.imgur.com/wZfiFRZ.png"/>
 
 -----------------------------------------------
@@ -410,12 +414,11 @@ Set up static IP on Windows server
 
 -----------------------------------------------
 
-Start creating users.
+D. Create organizational unit and users creating users.
 
 <img src="https://i.imgur.com/VDYgTNt.png"/>
 
 ----------------------------------------------
-create organizational unit and than user under organization.
 
 <img src="https://i.imgur.com/veLZgqr.png"/>
 
@@ -431,7 +434,7 @@ create organizational unit and than user under organization.
 <img src="https://i.imgur.com/jumfypP.png"/>
 
 ----------------------------------------------
-Join Windows 10 pc to crated DOMAIN.
+C. Join Windows 10 pc VM to DOMAIN "Labproject.local".
 
 <img src="https://i.imgur.com/Hh68Pup.png"/>
 
