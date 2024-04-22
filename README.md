@@ -219,7 +219,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 ----------------------------------------------
 
 <br>5. Install Splunk Fowarder on both (Winodows 10) (Windows Server 2022).</br>
- <br>  a. Change PC name and IP address to have Win 10 access the internet.</br>
+ <br>A. Change PC name and IP address to have Win 10 access the internet.</br>
  
 <img src="https://i.imgur.com/zscvWhn.png"/>
 
@@ -241,7 +241,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 -----------------------------------------------
 
- <br>  b. Download Universal Forwarder, Sysmon and, Sysmon olaf config from inside Windows 10 VM.</br>
+ <br>B.Download Universal Forwarder, Sysmon and, Sysmon olaf config from inside Windows 10 VM.</br>
 
 <img src="https://i.imgur.com/XZaTqrG.png"/>
 
@@ -255,7 +255,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 -----------------------------------------------
 
-Install Sysmon and sysmon olaf config.
+ <br>C.Download Sysmon from inside Windows 10 VM.</br>
 
 <img src="https://i.imgur.com/6PiYbW7.png"/>
 
@@ -264,6 +264,8 @@ Install Sysmon and sysmon olaf config.
 <img src="https://i.imgur.com/QWqVC0E.png"/>
 
 -----------------------------------------------
+
+ <br>D.Save sysmon olaf config from github sysmon-modular and run sysmon.exe.</br>
 
 <img src="https://i.imgur.com/gSoCoAX.png"/>
 
@@ -292,8 +294,8 @@ Install Sysmon and sysmon olaf config.
 <img src="https://i.imgur.com/9aH1t8P.png"/>
 
 ----------------------------------------------
-Configgure file "inputs" under local file in Splunk Forwarder file. 
 
+<br>E.Configgure file "inputs" under local file in Splunk Forwarder file.</br>
 
 <img src="https://i.imgur.com/GdcKCCb.png"/>
 
@@ -303,7 +305,7 @@ Configgure file "inputs" under local file in Splunk Forwarder file.
 
 -----------------------------------------------
 
-restart Splunk universal Fowarder.
+<br>F.restart Splunk universal Fowarder.</br>
 
 <img src="https://i.imgur.com/L7CYdZo.png"/>
 
@@ -321,8 +323,7 @@ restart Splunk universal Fowarder.
 
 ----------------------------------------------
 
-create an index in Splunk Enterprise.
-
+<br>G.Create an index in  Splunk Enterprise.</br>
 
 
 <img src="https://i.imgur.com/Dt8wuHj.png"/>
