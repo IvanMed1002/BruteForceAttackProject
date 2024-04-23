@@ -1,11 +1,11 @@
 <h1>Brute Force Attack Project</h1>
 
 <h2>Lab Objective</h2>
-Build a network enviorment to produce a brutefrce attack on a victum machine. Will be using Active Directory to create user accounts that will be used as the victum machine, while also using SPLUNK agent to send log events from the Windows server that has Active Dierctiry and Windows 11 VM. Will use Kali Linux as the attacking machine to perform bruteforce attack to see what kind of telemetery it will produce, along with using Atomic Red Team.<br />
+<br>Build a network environment to produce a bruteforce attack on a victim machine. Will be using Active Directory to create user accounts that will be used as the victim machine, while also using SPLUNK agent to send log events from the Windows server that has Active Directory and Windows 11 VM. Will use Kali Linux as the attacking machine to perform bruteforce attack to see what kind of telemetry it will produce, along with using Atomic Red Team.</br>
 
 <h2>Environments Used </h2>
 
-- <b>VirtialBox</b>
+- <b>VirtualBox</b>
 - <b>Windows Server 2022</b>
 - <b>Windows 11</b>
 - <b>Kali Linux</b>
