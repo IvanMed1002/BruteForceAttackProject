@@ -142,7 +142,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 <h1>Part 3: Install and configure Sysmon & Splunk on Windows target machine and Windows Server. Both Windows machine will collect telemetry and send logs over to Splunk server.</h1>
 
-1. Set networking setting to NAT to have all VMs on the same network for internet access and communciation between VMs. <br/>
+<br>1. Set networking setting to NAT to have all VMs on the same network for internet access and communciation between VMs. <br/>
 
 <img src="https://i.imgur.com/5ib2M63.png"/>
 
@@ -152,12 +152,12 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 -----------------------------------------------
 
-!!!!--- SAME STEP FOR VMs ---!!!! <br/>
+<b>!!!!--- SAME STEP FOR VMs ---!!!! </b>
 
 <img src="https://i.imgur.com/6IyArOs.png"/>
 
 ----------------------------------------------
-2. Set up static IP on Splunk Server. <br/>
+<b>2. Set up static IP on Splunk Server. </b>>
 
 <img src="https://i.imgur.com/OtDuWRZ.png"/>
 
