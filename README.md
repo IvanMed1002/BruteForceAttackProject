@@ -21,7 +21,7 @@
 <h1>Part 1: Build out a Diagram</h1>
 
 
-<img src="https://i.imgur.com/wW6qKId.png"/>
+<img src="https://i.imgur.com/Vw8gpZY.png"/>
 
 -----------------------------------------------
 
