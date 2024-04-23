@@ -142,7 +142,7 @@
 
 <h1>Part 3: Install and configure Sysmon & Splunk on Windows target machine and Windows Server. Both Windows machine will collect telemetry and send logs over to Splunk server.</h1>
 
-<b>1. Set networking setting to NAT to have all VMs on the same network for internet access and communciation between VMs. </b>
+<b>1. Set networking settings to NAT to have all VMs on the same network for internet access and communication between VMs.</b>
 
 <img src="https://i.imgur.com/5ib2M63.png"/>
 
@@ -174,7 +174,7 @@
 <img src="https://i.imgur.com/GjnIJki.png"/>
 
 -----------------------------------------------
-<b>3. Install Splunk by creating an acoount first and than download Splunk Enterprise on host computer.</b>
+<b>3. Install Splunk by creating an account first and then download Splunk Enterprise on the host computer.</b>
 
 <img src="https://i.imgur.com/HmnKQ4L.png"/>
 
@@ -183,7 +183,7 @@
 <img src="https://i.imgur.com/Zb9Z30b.png"/>
 
 ----------------------------------------------
-<b>4. Install "VurtialBox GUEST-ADD-ON" on Splunk VM.</b>
+<b>4. Install "VirtualBox GUEST-ADD-ON" on Splunk VM.</b>
 
 <img src="https://i.imgur.com/DYPtVHB.png"/>
 
@@ -219,7 +219,7 @@
 
 ----------------------------------------------
 
-<b>5. Install Splunk Fowarder on both (Winodows 10) (Windows Server 2022).</b>
+<b>5. Install Splunk Forwarder on both (Windows 10) (Windows Server 2022).</b>
  <b>A. Change PC name and IP address to have Win 10 access the internet.</b>
  
 <img src="https://i.imgur.com/zscvWhn.png"/>
@@ -296,7 +296,7 @@
 
 ----------------------------------------------
 
-<b>E. Configgure file "inputs" under local file in Splunk Forwarder file.</b>
+<b>E. Configure file "inputs" under local file in Splunk Forwarder file.</b>
 
 <img src="https://i.imgur.com/GdcKCCb.png"/>
 
@@ -324,7 +324,7 @@
 
 ----------------------------------------------
 
-<b>G. Create an index in  Splunk Enterprise.</b>
+<b>G. Create an index in Splunk Enterprise.</b>
 
 
 <img src="https://i.imgur.com/Dt8wuHj.png"/>
@@ -363,7 +363,7 @@
 
 ----------------------------------------------
 
-<h1>Part 4: Insatll & Configure Active Directory on Windows Server by promoting to a domain controller. Add Windows PC VM to join created domain.</h1> 
+<h1>Part 4: Install & Configure Active Directory on Windows Server by promoting to a domain controller. Add Windows PC VM to join created domain.</h1> 
 
 <b>A. Set up static IP on Windows server.</b>
 
@@ -393,7 +393,7 @@
 
 -----------------------------------------------
 
-<b>C. Promote Domain Controlle.</b>
+<b>C. Promote Domain Controller.</b>
 
 <img src="https://i.imgur.com/wZfiFRZ.png"/>
 
@@ -458,7 +458,7 @@
 
 ----------------------------------------------
 
-<h1>Part 5: Use Kali Linux to perform brute force attack on traget machine and use Atomic Red Team on target machine while also viewing all telemeetry via SPLUNK.</h1>
+<h1>Part 5: Use Kali Linux to perform brute force attack on target machine and use Atomic Red Team on target machine while also viewing all telemetry via SPLUNK.</h1>
 
 <b/>1. Set up static IP address in Kali Linux and check network connectivity.</b>
 
@@ -497,7 +497,7 @@
 
 ----------------------------------------------
 
-<b>4. Enable remoete desktop in Windows PC VM.</b>
+<b>4. Enable remote desktop in Windows PC VM.</b>
 
 <img src="https://i.imgur.com/oTAJkxU.png"/>
 
@@ -546,7 +546,7 @@
 
 ----------------------------------------------
 
-<b>8. Set up excution Policy and add exclusion to avoid defender scans.</b>
+<b>8. Set up execution Policy and add exclusion to avoid defender scans.</b>
 
 <img src="https://i.imgur.com/0Xl0wL3.png"/>
 
@@ -585,7 +585,7 @@
 
 ----------------------------------------------
 
-<b>10. Use ATT&CK Matrix to correlate with the list of attomic red team attacks and run attack.</b>
+<b>10. Use ATT&CK Matrix to correlate with the list of atomic red team attacks and run attacks.</b>
 
 <img src="https://i.imgur.com/cO7NLqv.png"/>
 
