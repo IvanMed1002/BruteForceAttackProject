@@ -458,7 +458,9 @@ C. Join Windows 10 pc VM to DOMAIN "Labproject.local".
 
 ----------------------------------------------
 
-- <b>Part 5:Use Kali Linux to perform brute force attack on traget machine and use Atomic Red Team on target machine while also viewing all telemeetry via SPLUNK.</b>
+<h1>Part 5:Use Kali Linux to perform brute force attack on traget machine and use Atomic Red Team on target machine while also viewing all telemeetry via SPLUNK.</h1>
+
+<b/>1. Set up static IP address in Kali Linux and check network connectivity.</b>
 
 <img src="https://i.imgur.com/FtHljLk.png"/>
 
@@ -474,6 +476,9 @@ C. Join Windows 10 pc VM to DOMAIN "Labproject.local".
 <img src="https://i.imgur.com/L8IYXqC.png"/>
 
 ----------------------------------------------
+
+<b> 2. Install "Crowbar" and move "rockyou.txt" file to ad-project directory.</b>
+
 <img src="https://i.imgur.com/EXlEJLw.png"/>
 
 -----------------------------------------------
@@ -481,6 +486,9 @@ C. Join Windows 10 pc VM to DOMAIN "Labproject.local".
 <img src="https://i.imgur.com/JQz3fMj.png"/>
 
 ----------------------------------------------
+
+<b> 3. Edit txt file "rockyou" and add password for Windows PC VM.<b>
+
 <img src="https://i.imgur.com/ZZ0Cnh9.png"/>
 
 -----------------------------------------------
@@ -489,7 +497,7 @@ C. Join Windows 10 pc VM to DOMAIN "Labproject.local".
 
 ----------------------------------------------
 
-enable remoete desktop
+<b>4. Enable remoete desktop in Windows PC VM.</b>
 
 <img src="https://i.imgur.com/oTAJkxU.png"/>
 
@@ -498,21 +506,27 @@ enable remoete desktop
 <img src="https://i.imgur.com/kbbxGPt.png"/>
 
 ----------------------------------------------
+
 <img src="https://i.imgur.com/jeLU3tQ.png"/>
 
 -----------------------------------------------
 
+<b>5. Run crowbar BRUTE FORCE ATTACK.</b>
+
 <img src="https://i.imgur.com/eN7qIfB.png"/>
 
 ----------------------------------------------
-SPLUNK to see what telemetry it created.
+
+<b>6. Access SPLUNK to see what telemetry it created after brute force attack.<b>
 
 <img src="https://i.imgur.com/dZQ2bBY.png"/>
 
 ----------------------------------------------
+
 <img src="https://i.imgur.com/54QF2ZY.png"/>
 
 -----------------------------------------------
+<b>7. Search event code.</b>
 
 <img src="https://i.imgur.com/93QkvfC.png"/>
 
@@ -532,13 +546,11 @@ SPLUNK to see what telemetry it created.
 
 ----------------------------------------------
 
-Install atomic Red Team on target machine
+<b>8. Set up excution Policy and add exclusion to avoid defender scans.</b>
 
 <img src="https://i.imgur.com/0Xl0wL3.png"/>
 
 -----------------------------------------------
-
-disable Micrposft defender to avoid MD from blocking attack from Atomic Red Team.
 
 <img src="https://i.imgur.com/1vXLwLI.png"/>
 
@@ -559,7 +571,7 @@ disable Micrposft defender to avoid MD from blocking attack from Atomic Red Team
 
 ----------------------------------------------
 
-Install atomic red team
+<b>9. Install Atomic Red Team.</b>
 
 <img src="https://i.imgur.com/xKcaLNw.png"/>
 
@@ -569,13 +581,11 @@ Install atomic red team
 
 ----------------------------------------------
 
-<img src="https://imgur.com/undefined"/>
-
-----------------------------------------------
-
 <img src="https://i.imgur.com/IXiGkiD.png"/>
 
 ----------------------------------------------
+
+<b>10. Use ATT&CK Matrix to correlate with the list of attomic red team attacks and run attack.</b>
 
 <img src="https://i.imgur.com/cO7NLqv.png"/>
 
@@ -597,10 +607,11 @@ Install atomic red team
 
 ----------------------------------------------
 
+<b>11. Use SPLUNK to analyze logs with "newlocaluser" created after machine was attacked by creating admin account.</b>
+
 <img src="https://i.imgur.com/NeJ77fr.png"/>
 
 ----------------------------------------------
 
 <img src="https://i.imgur.com/TkvQLIj.png"/>
 
-----------------------------------------------
