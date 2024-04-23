@@ -142,7 +142,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 <h1>Part 3: Install and configure Sysmon & Splunk on Windows target machine and Windows Server. Both Windows machine will collect telemetry and send logs over to Splunk server.</h1>
 
-<br>1. Set networking setting to NAT to have all VMs on the same network for internet access and communciation between VMs. <br/>
+<b>1. Set networking setting to NAT to have all VMs on the same network for internet access and communciation between VMs. </b>
 
 <img src="https://i.imgur.com/5ib2M63.png"/>
 
@@ -157,7 +157,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 <img src="https://i.imgur.com/6IyArOs.png"/>
 
 ----------------------------------------------
-<b>2. Set up static IP on Splunk Server. </b>>
+<b>2. Set up static IP on Splunk Server. </b>
 
 <img src="https://i.imgur.com/OtDuWRZ.png"/>
 
@@ -174,7 +174,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 <img src="https://i.imgur.com/GjnIJki.png"/>
 
 -----------------------------------------------
-3. Install Splunk by creating an acoount first and than download Splunk Enterprise on host computer. <br/>
+<b>3. Install Splunk by creating an acoount first and than download Splunk Enterprise on host computer.</b>
 
 <img src="https://i.imgur.com/HmnKQ4L.png"/>
 
@@ -183,7 +183,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 <img src="https://i.imgur.com/Zb9Z30b.png"/>
 
 ----------------------------------------------
-4. Install "VurtialBox GUEST-ADD-ON" on Splunk VM. <br/>
+<b>4. Install "VurtialBox GUEST-ADD-ON" on Splunk VM.</b>
 
 <img src="https://i.imgur.com/DYPtVHB.png"/>
 
@@ -205,7 +205,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 -----------------------------------------------
 
-4. Mount share folder create "AD Project" to the "SHARE" directory created. </br>
+<b>4. Mount share folder create "AD Project" to the "SHARE" directory created. </b>
 
 <img src="https://i.imgur.com/YbvrCcS.png"/>
 
@@ -219,8 +219,8 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 ----------------------------------------------
 
-<br>5. Install Splunk Fowarder on both (Winodows 10) (Windows Server 2022).</br>
- <br>A. Change PC name and IP address to have Win 10 access the internet.</br>
+<b>5. Install Splunk Fowarder on both (Winodows 10) (Windows Server 2022).</b>
+ <b>A. Change PC name and IP address to have Win 10 access the internet.</b>
  
 <img src="https://i.imgur.com/zscvWhn.png"/>
 
@@ -242,7 +242,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 -----------------------------------------------
 
- <br>B.Download Universal Forwarder, Sysmon and, Sysmon olaf config from inside Windows 10 VM.</br>
+ <b>B. Download Universal Forwarder, Sysmon and, Sysmon olaf config from inside Windows 10 VM.</b>
 
 <img src="https://i.imgur.com/XZaTqrG.png"/>
 
@@ -256,7 +256,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 -----------------------------------------------
 
- <br>C.Download Sysmon from inside Windows 10 VM.</br>
+ <b>C. Download Sysmon from inside Windows 10 VM.</b>
 
 <img src="https://i.imgur.com/6PiYbW7.png"/>
 
@@ -266,7 +266,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 -----------------------------------------------
 
- <br>D.Save sysmon olaf config from github sysmon-modular and run sysmon.exe.</br>
+ <b>D. Save sysmon olaf config from github sysmon-modular and run sysmon.exe.</b>
 
 <img src="https://i.imgur.com/gSoCoAX.png"/>
 
@@ -296,7 +296,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 ----------------------------------------------
 
-<br>E.Configgure file "inputs" under local file in Splunk Forwarder file.</br>
+<b>E. Configgure file "inputs" under local file in Splunk Forwarder file.</b>
 
 <img src="https://i.imgur.com/GdcKCCb.png"/>
 
@@ -306,7 +306,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 -----------------------------------------------
 
-<br>F.restart Splunk universal Fowarder.</br>
+<b>F. Restart Splunk universal Fowarder.</b>
 
 <img src="https://i.imgur.com/L7CYdZo.png"/>
 
@@ -324,7 +324,7 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 ----------------------------------------------
 
-<br>G.Create an index in  Splunk Enterprise.</br>
+<b>G. Create an index in  Splunk Enterprise.</b>
 
 
 <img src="https://i.imgur.com/Dt8wuHj.png"/>
@@ -365,13 +365,13 @@ Build a network enviorment to produce a brutefrce attack on a victum machine. Wi
 
 <h1>Part 4: Insatll & Configure Active Directory on Windows Server by promoting to a domain controller. Add Windows PC VM to join created domain.</h1> 
 
-A. Set up static IP on Windows server.
+<b>A. Set up static IP on Windows server.</b>
 
 <img src="https://i.imgur.com/wtXTsbE.png"/>
 
 -----------------------------------------------
 
-B. Create Active Directory Domain Services.
+<b>B. Create Active Directory Domain Services.</b>
 
 <img src="https://i.imgur.com/sz5Ts5U.png"/>
 
@@ -393,7 +393,7 @@ B. Create Active Directory Domain Services.
 
 -----------------------------------------------
 
-C. Promote Domain Controlle.
+<b>C. Promote Domain Controlle.</b>
 
 <img src="https://i.imgur.com/wZfiFRZ.png"/>
 
@@ -414,7 +414,7 @@ C. Promote Domain Controlle.
 
 -----------------------------------------------
 
-D. Create organizational unit and users creating users.
+<b>D. Create organizational unit and users creating users.</b>
 
 <img src="https://i.imgur.com/VDYgTNt.png"/>
 
@@ -434,7 +434,7 @@ D. Create organizational unit and users creating users.
 <img src="https://i.imgur.com/jumfypP.png"/>
 
 ----------------------------------------------
-C. Join Windows 10 pc VM to DOMAIN "Labproject.local".
+<b>C. Join Windows 10 pc VM to DOMAIN "Labproject.local".</b>
 
 <img src="https://i.imgur.com/Hh68Pup.png"/>
 
@@ -458,7 +458,7 @@ C. Join Windows 10 pc VM to DOMAIN "Labproject.local".
 
 ----------------------------------------------
 
-<h1>Part 5:Use Kali Linux to perform brute force attack on traget machine and use Atomic Red Team on target machine while also viewing all telemeetry via SPLUNK.</h1>
+<h1>Part 5: Use Kali Linux to perform brute force attack on traget machine and use Atomic Red Team on target machine while also viewing all telemeetry via SPLUNK.</h1>
 
 <b/>1. Set up static IP address in Kali Linux and check network connectivity.</b>
 
